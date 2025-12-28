@@ -5,12 +5,12 @@
 @tailwind utilities;
 
 a.active hr {
-    display: block;
+  display: block;
 }
 
-*{
-    font-family: Outfit;
-    
+* {
+  font-family: Outfit;
+
 }
 
 .prata-regular {
@@ -19,10 +19,13 @@ a.active hr {
   font-style: normal;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
 
-@media (max-width:640px){
-  a.active{
-    background-color:black; 
-    color: white; 
+@media (max-width:640px) {
+  a.active {
+    background-color: black;
+    color: white;
   }
 }
