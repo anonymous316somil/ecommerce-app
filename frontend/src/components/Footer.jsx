@@ -33,7 +33,7 @@ const Footer = () => {
             <div>
                 <hr />
                 <p className='py-5 text-sm text-center'>
-                    Copyright 2025@ buykaro.com - All Right Reserved.
+                    Copyright 2025@ karobuy.com - All Right Reserved.
                 </p>
             </div>
         </div>
